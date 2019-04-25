@@ -2,9 +2,9 @@
 
 .NET blocking, light weight, thread safe object pool.
 
-[![Build History](https://buildstats.info/travisci/chart/mediatechsolutions/blocking-object-pool?branch=master)](https://travis-ci.org/mediatechsolutions/blocking-object-pool)
+[![Build History](https://buildstats.info/travisci/chart/rfrancotechnologies/blocking-object-pool?branch=master)](https://travis-ci.org/rfrancotechnologies/blocking-object-pool)
 [![NuGet Version](https://buildstats.info/nuget/BlockingObjectPool?includePreReleases=true)](https://www.nuget.org/packages/BlockingObjectPool)
-[![Build Status](https://travis-ci.org/mediatechsolutions/blocking-object-pool.svg?branch=master)](https://travis-ci.org/mediatechsolutions/blocking-object-pool)
+[![Build Status](https://travis-ci.org/rfrancotechnologies/blocking-object-pool.svg?branch=master)](https://travis-ci.org/rfrancotechnologies/blocking-object-pool)
 
 BlockingObjectPool is a work derived from https://github.com/yanggujun/commonsfornet, more specifically https://github.com/yanggujun/commonsfornet/wiki/Commons.Pool, also released under Apache 2.0 license. The main reasons to fork the project are:
 
